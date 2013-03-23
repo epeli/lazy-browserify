@@ -1,0 +1,11 @@
+{
+  "name": "carcounter",
+  "version": "0.0.0",
+  "description": "Car Counter",
+  "dependencies": {
+    "browserify": ""
+  },
+  "devDependencies": {
+    "serve": "~1.2.0"
+  }
+}
