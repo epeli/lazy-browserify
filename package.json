@@ -6,6 +6,6 @@
     "browserify": ""
   },
   "devDependencies": {
-    "serve": "~1.2.0"
+    "serve": "~10.0.2"
   }
 }
